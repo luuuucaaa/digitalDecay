@@ -8,4 +8,4 @@ pieces i made with the script: https://soundcloud.com/lucahilbrich/sets/digital-
 
 you can try it out with your own audiofile! just download the whole repository, change the filepath of the input audio in the jupyter notebook and create a folder in the same directory named 'generated_audio'. you can use your own (audio) modulation signals as well!
 
-thanks to Supreme-Sector for his cool perlin noise implementation for python: https://github.com/Supreme-Sector/Python-Perlin-Noise
+thanks to Supreme-Sector for his cool perlin noise implementation for python i used for my project: https://github.com/Supreme-Sector/Python-Perlin-Noise
